@@ -11,13 +11,13 @@ Bu proje, patates yapraklarındaki hastalıkları tespit etmek için derin öğr
 
 Model, yaprağın **Early Blight (Erken Yanıklık)**, **Late Blight (Geç Yanıklık)** veya **Sağlıklı** olup olmadığını tahmin eder.
 
-![potato1.PNG](potato1.png)
+![potato1.PNG](https://github.com/sinanbalibey/cnn-potato-health-check/blob/main/img/potato1.png)
 
-![potato2.PNG](potato2.png)
+![potato2.PNG](https://github.com/sinanbalibey/cnn-potato-health-check/blob/main/img/potato2.png)
 
-![potato3.PNG](potato3.png)
+![potato3.PNG](https://github.com/sinanbalibey/cnn-potato-health-check/blob/main/img/potato3.png)
 
-![potato4.PNG](potato4.png)
+![potato4.PNG](https://github.com/sinanbalibey/cnn-potato-health-check/blob/main/img/potato4.png)
 
 ## Özellikler
 
@@ -154,4 +154,4 @@ Bu komut:
     ```
     
 
-![Doğruluk ve Kayıp.PNG](Doruluk_ve_Kayp.png)
+![Doğruluk ve Kayıp.PNG](https://github.com/sinanbalibey/cnn-potato-health-check/blob/main/img/Doruluk_ve_Kayp.png)
