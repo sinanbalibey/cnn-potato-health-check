@@ -145,8 +145,6 @@ Bu komut:
     Cevap:
     
     ```json
-    json
-    Kodu kopyala
     {
       "class": "Early Blight",
       "confidence": 0.99
